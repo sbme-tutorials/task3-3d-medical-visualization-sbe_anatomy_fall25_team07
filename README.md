@@ -159,17 +159,6 @@ Python 3.8+
 pip (Python package manager)
 ```
 
-### Required Libraries
-```bash
-pip install PyQt5 vtk numpy scipy matplotlib pillow opencv-python
-pip install mne nibabel pydicom vispy
-```
-
-### Optional Libraries (for advanced features)
-```bash
-pip install scikit-image SimpleITK
-```
-
 ### Installation Steps
 1. Clone the repository:
 ```bash
