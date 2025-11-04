@@ -50,7 +50,7 @@ This 3D Medical Visualization System is a powerful educational tool designed to 
 **Cardiovascular System**
 *Surface rendering of heart anatomy with realistic coloring and ECG-synchronized heart contraction with blood flow*
 
-[![Watch the video]()](https://drive.google.com/file/d/1YSHGeFv6nDWuJ9wD1oJCOzbmbfDjoksf/view?usp=drive_link)
+[![Watch the video](https://github.com/RadwaHa/3D-Medical-Visualization/blob/main/Demo/Screenshot%202025-11-04%20193529.png)](https://drive.google.com/file/d/1YSHGeFv6nDWuJ9wD1oJCOzbmbfDjoksf/view?usp=drive_link)
 
 
 **Nervous System**
