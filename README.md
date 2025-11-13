@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/af022a90-fdc6-4cb3-a21b-d1c8960e0a6e
 # 3D Medical Visualization System 🏥
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -32,7 +34,6 @@ A comprehensive 3D medical imaging and visualization platform for anatomical edu
 - [Navigation Methods](#-navigation-methods)
 - [Advanced Features](#-advanced-features)
 - [Technical Stack](#-technical-stack)
-- [File Structure](#-file-structure)
 - [Requirements](#-requirements)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -60,7 +61,11 @@ This 3D Medical Visualization System is a powerful educational tool designed to 
 *Surface rendering of heart anatomy with realistic coloring and ECG-synchronized heart contraction with blood flow*
 
 
-[![Watch the video](https://github.com/RadwaHa/3D-Medical-Visualization/blob/main/Demo/Screenshot%202025-11-04%20194213.png)](https://drive.google.com/file/d/1YSHGeFv6nDWuJ9wD1oJCOzbmbfDjoksf/view?usp=drive_link)
+
+
+https://github.com/user-attachments/assets/330a6356-7f3e-4980-b815-9dd7c314773f
+
+
 
 
 ---
@@ -69,7 +74,13 @@ This 3D Medical Visualization System is a powerful educational tool designed to 
 *3D brain model with cortical surface detail, Real-time EEG electrical signal propagation and Curved MPR for neural tract visualization*
 
 
-[![Watch the video](https://github.com/RadwaHa/3D-Medical-Visualization/blob/main/Demo/Screenshot%202025-11-04%20193529.png)](https://drive.google.com/file/d/1EYJE7BWHoKwUIzt6Jon1MLzxL0_pSO_O/view?usp=drive_link)
+
+
+https://github.com/user-attachments/assets/991d9e14-1780-4986-9aa9-cb5f1bb73050
+
+
+
+
 
 
 ---
@@ -87,6 +98,11 @@ https://github.com/user-attachments/assets/ceb719cb-1141-4e2a-bb4b-c39adc3ed4f8
 **Musculoskeletal System**
 
 *Complete leg musculoskeletal visualization and Cross-sectional view with clipping planes*
+
+
+
+https://github.com/user-attachments/assets/ba4058bc-7010-42fc-a791-dc38de636bd1
+
 
 
 ---
@@ -362,37 +378,6 @@ Surface-based electrical signal propagation across the brain.
 2. Load EEG data (.edf format)
 3. Watch electrical signals flow across brain surface
 4. Active paths indicate strong electrode coupling
-
----
-
-### Anatomically Accurate Coloring
-
-Each system uses medically accurate color schemes:
-
-**Heart**:
-- Myocardium: Deep burgundy (0.70, 0.17, 0.17)
-- Arteries: Bright red (0.90, 0.15, 0.15)
-- Veins: Blue (0.20, 0.30, 0.65)
-- Valves: Cream white (0.92, 0.88, 0.85)
-
-**Brain**:
-- Gray matter: Pinkish gray (0.75, 0.68, 0.70)
-- White matter: White/cream (0.95, 0.93, 0.90)
-- Cerebellum: Darker pink (0.70, 0.62, 0.65)
-- Blood vessels: Red arteries, blue veins
-
-**Leg**:
-- Bone: Ivory/cream (0.95, 0.92, 0.88)
-- Muscle: Deep red (0.72, 0.26, 0.26)
-- Tendons: Beige (0.92, 0.88, 0.82)
-- Cartilage: Bluish white (0.85, 0.90, 0.92)
-
-**Dental**:
-- Enamel: Pearl white (0.98, 0.97, 0.94)
-- Gums: Healthy pink (0.92, 0.60, 0.65)
-- Dentin: Yellowish (0.92, 0.88, 0.78)
-- Pulp: Red (0.85, 0.35, 0.35)
-
 ---
 
 
@@ -414,45 +399,6 @@ Each system uses medically accurate color schemes:
 ### Visualization Libraries
 - **Matplotlib**: 2D plotting (ECG signals)
 - **VisPy**: High-performance 3D graphics (fly-through mode)
-
-### Key VTK Components Used
-- `vtkOBJReader`: OBJ file loading
-- `vtkPolyDataMapper`: 3D mesh rendering
-- `vtkActor`: Scene objects
-- `vtkRenderer`: Rendering pipeline
-- `vtkPlane`: Clipping plane implementation
-- `vtkCellLocator`: Surface projection
-- `vtkParametricSpline`: Curved path generation
-- `vtkTubeFilter`: Signal path visualization
-
----
-
-## 📁 File Structure
-
-```
-medical-visualization-system/
-│
-├── src/
-│   ├── gui.py                    # Main system selection GUI
-│   ├── heart_gui.py              # Cardiovascular system
-│   ├── brain_gui.py              # Nervous system
-│   ├── legs_gui.py               # Musculoskeletal system
-│   ├── teeth_gui.py              # Dental system
-│   ├── Heart_Moving.py           # ECG heart animation
-│   ├── moving_stuff.py           # EEG brain signals
-│   ├── flyThrough2.py            # Fly-through navigation
-│   ├── clippingPlanes.py         # Orthogonal plane viewer
-│   └── curvedMPR.py              # Curved MPR generator
-│
-├── data/
-│   ├── heart/                    # Heart 3D models (.obj)
-│   ├── brain/                    # Brain 3D models (.obj)
-│   ├── leg/                      # Leg 3D models (.obj)
-│   └── dental/                   # Dental 3D models (.obj)
-│
-├── requirements.txt              # Python dependencies
-└── README.md                     # This file
-```
 
 ---
 
