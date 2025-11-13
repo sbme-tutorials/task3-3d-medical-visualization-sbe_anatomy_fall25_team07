@@ -27,6 +27,7 @@ A comprehensive 3D medical imaging and visualization platform for anatomical edu
 - [System Architecture](#%EF%B8%8F-system-architecture)
 - [Supported Medical Systems](#-supported-medical-systems)
 - [Installation](#-installation)
+- [Data](#-data)
 - [Usage Guide](#-usage-guide)
 - [Visualization Techniques](#-visualization-techniques)
 - [Navigation Methods](#-navigation-methods)
@@ -219,6 +220,13 @@ python src/gui.py
 
 ---
 
+## 📄 Data
+
+You can access the used data here: 
+[Data](https://drive.google.com/drive/folders/1aksbAYKB2P3EfXpDwf8ek9iyqnMeKCAi?usp=sharing)
+
+---
+
 ## 📖 Usage Guide
 
 ### Starting the Application
@@ -230,12 +238,6 @@ python src/gui.py
 2. Select your desired medical system (Cardio, Skeleton, Nervous, or Dental)
 
 3. Choose a visualization mode or navigation technique
-
-### Data Downloading
-
-You can access the used data here: 
-[Data](https://drive.google.com/drive/folders/1aksbAYKB2P3EfXpDwf8ek9iyqnMeKCAi?usp=sharing)
-
 
 ### Loading 3D Models
 - **Single File**: Click "Load Single OBJ File" and select a .obj file
