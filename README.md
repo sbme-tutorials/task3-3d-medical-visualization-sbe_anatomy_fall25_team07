@@ -480,10 +480,10 @@ This project is provided as-is for educational purposes. Not intended for clinic
 - [GitHub](habebai558-lgtm)
 - [LinkedIn]()
 
-**Project Contributer**:
-- Email:
-- [GitHub]()
-- [LinkedIn]()
+**Project Contributer**:David bahaa
+- Email:david.bahaa1974@gmail.com
+- [GitHub](https://github.com/davidbahaa1974)
+- [LinkedIn](https://www.linkedin.com/in/david-bahaa-b15164372/)
 
 ---
 
