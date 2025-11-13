@@ -5,11 +5,19 @@
 
 A comprehensive 3D medical imaging and visualization platform for anatomical education and learning. This system provides advanced rendering techniques and interactive navigation tools for multiple organ systems.
 
-<img width="1618" height="923" alt="Screenshot 2025-11-04 185734" src="https://github.com/user-attachments/assets/a74e311e-7348-46a2-860f-ebf4b8617ffd" />
-<img width="1622" height="926" alt="Screenshot 2025-11-04 190141" src="https://github.com/user-attachments/assets/59f25838-67fc-4ceb-856e-915297b14956" />
+
+<table><tr><td>
+<img align="left" width="100%" src="https://github.com/user-attachments/assets/a74e311e-7348-46a2-860f-ebf4b8617ffd"></td><td><img align="right" width="100%" src="https://github.com/user-attachments/assets/59f25838-67fc-4ceb-856e-915297b14956">
+</td></tr></table>
+
+<table><tr><td>
+<img align="left" width="100%" src="https://github.com/user-attachments/assets/197d7885-39b4-454f-8a1d-3016d600679e"></td><td><img align="right" width="100%" src="https://github.com/user-attachments/assets/ac97264f-5a02-41a4-91e0-bf106fa02ea7">
+</td></tr></table>
 
 
 ---
+
+
 
 ## 📋 Table of Contents
 
@@ -60,12 +68,19 @@ This 3D Medical Visualization System is a powerful educational tool designed to 
 
 *3D brain model with cortical surface detail, Real-time EEG electrical signal propagation and Curved MPR for neural tract visualization*
 
+
 [![Watch the video](https://github.com/RadwaHa/3D-Medical-Visualization/blob/main/Demo/Screenshot%202025-11-04%20193529.png)](https://drive.google.com/file/d/1EYJE7BWHoKwUIzt6Jon1MLzxL0_pSO_O/view?usp=drive_link)
+
 
 ---
 **Dental**
 
 *High-detail dental and jaw anatomy and Curved MPR along dental arch*
+
+
+
+https://github.com/user-attachments/assets/ceb719cb-1141-4e2a-bb4b-c39adc3ed4f8
+
 
 
 ---
