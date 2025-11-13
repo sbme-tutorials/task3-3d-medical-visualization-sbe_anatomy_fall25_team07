@@ -256,9 +256,9 @@ You can access the used data here:
 
 ---
 
-## 🎨 Visualization Techniques
+### 🎨 Visualization Techniques
 
-### Surface Rendering
+#### 🫀 Surface Rendering
 Displays the outer surface of anatomical structures with realistic lighting and shading.
 
 **Usage**:
@@ -268,9 +268,9 @@ Displays the outer surface of anatomical structures with realistic lighting and 
 
 **Best For**: General anatomy overview, external structure examination
 
----
 
-### Clipping Planes
+
+#### 🖇️ Clipping Planes
 Creates cross-sectional views by slicing through the model along X or Y axes.
 
 **Usage**:
@@ -281,9 +281,9 @@ Creates cross-sectional views by slicing through the model along X or Y axes.
 
 **Best For**: Internal structure examination, layer-by-layer analysis
 
----
 
-### Curved MPR (Multi-Planar Reconstruction)
+
+#### 🦷 Curved MPR (Multi-Planar Reconstruction)
 Generates curved cross-sections following user-defined paths.
 
 **Supported Systems**: Nervous, Dental
@@ -298,9 +298,9 @@ Generates curved cross-sections following user-defined paths.
 
 ---
 
-## 🧭 Navigation Methods
+### 🧭 Navigation Methods
 
-### Focus Navigation
+#### 🔍 Focus Navigation
 Isolates and zooms into specific anatomical components.
 
 **Usage**:
@@ -314,9 +314,9 @@ Isolates and zooms into specific anatomical components.
 - Other parts fade to 25% opacity
 - Maintains spatial context
 
----
 
-### Fly-Through Mode
+
+#### 🛰️ Fly-Through Mode
 Provides cinematic navigation through 3D models with automatic or manual control.
 
 **Usage**:
@@ -339,9 +339,9 @@ Provides cinematic navigation through 3D models with automatic or manual control
 
 ---
 
-## 🔬 Advanced Features
+### 🔬 Advanced Features
 
-### ECG Heart Pumping Visualization
+#### 🫀 ECG Heart Pumping Visualization
 Real-time cardiac animation synchronized with ECG data.
 
 **Components**:
@@ -362,9 +362,8 @@ Real-time cardiac animation synchronized with ECG data.
 3. Adjust playback speed
 4. Observe phase-accurate contractions
 
----
 
-### EEG Brain Signals Visualization
+#### 🧠 EEG Brain Signals Visualization
 Surface-based electrical signal propagation across the brain.
 
 **Components**:
