@@ -231,6 +231,12 @@ python src/gui.py
 
 3. Choose a visualization mode or navigation technique
 
+### Data Downloading
+
+You can access the used data here: 
+[Data](https://drive.google.com/drive/folders/1aksbAYKB2P3EfXpDwf8ek9iyqnMeKCAi?usp=sharing)
+
+
 ### Loading 3D Models
 - **Single File**: Click "Load Single OBJ File" and select a .obj file
 - **Batch Import**: Click "Load Folder (Batch Import)" to load multiple files at once
