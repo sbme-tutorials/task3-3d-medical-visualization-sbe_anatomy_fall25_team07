@@ -471,7 +471,7 @@ This project is provided as-is for educational purposes. Not intended for clinic
 - [LinkedIn](https://linkedin.com/in/radwa-hamdy1)
 
 **Project Contributer**:Ahd Ahmed
-- Email:ahd.hassan06@eng-st.cu.edu.eg
+- Email: ahd.hassan06@eng-st.cu.edu.eg
 - [GitHub](https://github.com/ahdelrawy)
 - [LinkedIn](https://linkedin.com/in/ahd-elrawy)
 
@@ -481,7 +481,7 @@ This project is provided as-is for educational purposes. Not intended for clinic
 - [LinkedIn]()
 
 **Project Contributer**:David bahaa
-- Email:david.bahaa1974@gmail.com
+- Email: david.bahaa1974@gmail.com
 - [GitHub](https://github.com/davidbahaa1974)
 - [LinkedIn](https://www.linkedin.com/in/david-bahaa-b15164372/)
 
