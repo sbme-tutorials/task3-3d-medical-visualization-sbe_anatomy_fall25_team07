@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/af022a90-fdc6-4cb3-a21b-d1c8960e0a6e
 # 3D Medical Visualization System 🏥
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
